@@ -1,5 +1,5 @@
 {
-  "originHash" : "df62267a8ffd060087e903a9d112d24562a959d43a0819a6511367da533c5594",
+  "originHash" : "252a8b945a3034aab5a5112fd6d0e4a1faa6e2b7b7668477ee3bd3bc009abf50",
   "pins" : [
     {
       "identity" : "aexml",
@@ -76,7 +76,7 @@
     {
       "identity" : "swift-algorithms",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/apple/swift-algorithms.git",
+      "location" : "https://github.com/apple/swift-algorithms",
       "state" : {
         "revision" : "87e50f483c54e6efd60e885f7f5aa946cee68023",
         "version" : "1.2.1"
@@ -85,7 +85,7 @@
     {
       "identity" : "swift-argument-parser",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/apple/swift-argument-parser.git",
+      "location" : "https://github.com/apple/swift-argument-parser",
       "state" : {
         "revision" : "6a52f3251125d74daf04fcbd5e6f08a75d074382",
         "version" : "1.8.2"
@@ -141,8 +141,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/apple/swift-collections",
       "state" : {
-        "revision" : "35a1edcb8ebd2bfe251d587f0b69e62af28f508c",
-        "version" : "1.7.3"
+        "revision" : "844289ac455816e193f1dbbe014f3c4dbe429410",
+        "version" : "1.7.4"
       }
     },
     {
@@ -159,8 +159,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/apple/swift-configuration.git",
       "state" : {
-        "revision" : "8bae88f79dbddec793390c5bf3e2abb4ac2ece42",
-        "version" : "1.2.2"
+        "revision" : "4e916072eb34f3c136ae64bd2859d6072cdb1b6e",
+        "version" : "1.3.0"
       }
     },
     {
@@ -240,8 +240,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/apple/swift-log.git",
       "state" : {
-        "revision" : "4038b6a4f74a1426f47eb1dd5b4bb5628a15d597",
-        "version" : "1.16.1"
+        "revision" : "c9c6bb9d275ec0d95c3ad16391f3f045dc623104",
+        "version" : "1.16.2"
       }
     },
     {
@@ -321,8 +321,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/apple/swift-openapi-runtime",
       "state" : {
-        "revision" : "ad7a252e215870ea2de9cf8605ff9336b004183a",
-        "version" : "1.13.1"
+        "revision" : "6927ad435adf4d00fe55fc61b9a07a04673c79c8",
+        "version" : "1.13.3"
       }
     },
     {
@@ -373,7 +373,7 @@
     {
       "identity" : "swift-system",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/apple/swift-system.git",
+      "location" : "https://github.com/apple/swift-system",
       "state" : {
         "revision" : "869129b7bf4ecc57b97d0193ad29690ca2134750",
         "version" : "1.8.1"
@@ -445,10 +445,9 @@
     {
       "identity" : "zsign",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/xtool-org/zsign",
+      "location" : "https://github.com/TheEdgeOfRage/zsign",
       "state" : {
-        "revision" : "f6158be9e62a5ce2a53d72b1a6d880880da956c8",
-        "version" : "1.9.0"
+        "revision" : "4fe2e9d8b2bbe620e3cae72117676dd489358c63"
       }
     }
   ],
