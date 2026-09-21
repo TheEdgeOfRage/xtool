@@ -49,8 +49,11 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/xtool-org/xtool-core", .upToNextMinor(from: "1.5.0")),
-        .package(url: "https://github.com/xtool-org/SwiftyMobileDevice", .upToNextMinor(from: "1.7.0")),
-        .package(url: "https://github.com/xtool-org/zsign", .upToNextMinor(from: "1.9.0")),
+        .package(
+            url: "https://github.com/xtool-org/SwiftyMobileDevice", .upToNextMinor(from: "1.7.0")),
+        .package(
+            url: "https://github.com/TheEdgeOfRage/zsign",
+            revision: "4fe2e9d8b2bbe620e3cae72117676dd489358c63"),
         .package(url: "https://github.com/xtool-org/xadi", .upToNextMinor(from: "0.4.2")),
 
         .package(url: "https://github.com/apple/swift-system", from: "1.4.0"),
